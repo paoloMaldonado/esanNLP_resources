@@ -1,4 +1,4 @@
-from utils.utils_tfidf import getTFIDFtokenSentenceWeight
+# from utils.utils_tfidf import getTFIDFtokenSentenceWeight
 from collections import Counter
 import numpy as np
 
